@@ -91,8 +91,8 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            I'm always interested in new opportunities and exciting projects. 
-            Feel free to reach out if you'd like to collaborate or just say hello!
+            I&apos;m always interested in new opportunities and exciting projects. 
+            Feel free to reach out if you&apos;d like to collaborate or just say hello!
           </p>
         </motion.div>
 
@@ -110,8 +110,8 @@ export default function Contact() {
                 Let's Connect
               </h3>
               <p className="text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
-                I'm currently available for freelance work and full-time opportunities. 
-                Whether you have a question or just want to say hi, I'll try my best to get back to you!
+                I&apos;m currently available for freelance work and full-time opportunities. 
+                Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
               </p>
             </div>
 
@@ -228,7 +228,7 @@ export default function Contact() {
                   onChange={handleInputChange}
                   required
                   className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white dark:bg-gray-800 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400"
-                  placeholder="What's this about?"
+                  placeholder="What&apos;s this about?"
                 />
               </div>
               

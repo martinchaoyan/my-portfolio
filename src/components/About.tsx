@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { GraduationCap, MapPin, Calendar, Heart, Coffee, BookOpen } from 'lucide-react';
+import { GraduationCap, MapPin, Heart, Coffee, BookOpen } from 'lucide-react';
 import Image from 'next/image';
 
 const education = [
@@ -115,17 +115,17 @@ export default function About() {
               </h3>
               <div className="space-y-4 text-gray-700 dark:text-gray-300 leading-relaxed">
                 <p>
-                  I'm a passionate software engineer with hands-on experience spanning from traditional banking technology to modern full-stack development. 
+                  I&apos;m a passionate software engineer with hands-on experience spanning from traditional banking technology to modern full-stack development. 
                   My journey began in the banking sector where I led technology transformation projects and managed development lifecycles.
                 </p>
                 <p>
-                  I completed my Master's degree in Information Technology at the University of New South Wales, where I developed several comprehensive 
+                  I completed my Master&apos;s degree in Information Technology at the University of New South Wales, where I developed several comprehensive 
                   projects including a car space rental platform, interactive learning system, and social networking application. These projects showcased my expertise 
                   in React, TypeScript, Node.js, and cloud technologies.
                 </p>
                 <p>
-                  I believe in writing clean, maintainable code and staying current with the latest technologies. When I'm not coding, you can find me exploring 
-                  new places through road trips, discovering international cuisines, or playing tennis. I'm always eager to learn new technologies and take on challenging projects.
+                  I believe in writing clean, maintainable code and staying current with the latest technologies. When I&apos;m not coding, you can find me exploring 
+                  new places through road trips, discovering international cuisines, or playing tennis. I&apos;m always eager to learn new technologies and take on challenging projects.
                 </p>
               </div>
             </div>
